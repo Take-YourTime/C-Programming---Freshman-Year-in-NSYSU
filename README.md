@@ -101,9 +101,10 @@ gcc -o output filename.c -lm
 ```
 
 > 部分程式需要讀取外部 `.txt` 檔案（如 `coordinate.txt`、`BinaryImage.txt`），請確保執行時該檔案位於同一目錄下。
-  
-  
-⚠️ 版權聲明 (Disclaimer)  
+
+---
+
+## ⚠️ 版權聲明 (Disclaimer)  
 本儲存庫內容僅供個人學習紀錄與學術交流使用。  
 
 若您是目前正在修習相關課程的同學，建議參考邏輯後自行實作，請勿直接複製貼上以維護學術誠信。  
